@@ -95,7 +95,7 @@ export class HyperlaneCore extends HyperlaneApp<CoreFactories> {
       destinationId,
       recipient,
       body,
-      metadata || '0x',
+      metadata || '0x0001',
       hook || ethers.constants.AddressZero,
     );
   };
@@ -161,7 +161,7 @@ export class HyperlaneCore extends HyperlaneApp<CoreFactories> {
       destinationDomain,
       recipientBytes32,
       body,
-      metadata || '0x',
+      metadata || '0x0001',
       hook || ethers.constants.AddressZero,
     ] as const;
 
