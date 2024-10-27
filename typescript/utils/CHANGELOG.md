@@ -1,5 +1,11 @@
 # @hyperlane-xyz/utils
 
+## 5.6.3
+
+### Patch Changes
+
+- 04108155d: fix median utils func + add test
+
 ## 5.6.2
 
 ### Patch Changes

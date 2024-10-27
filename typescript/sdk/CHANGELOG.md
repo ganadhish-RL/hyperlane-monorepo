@@ -1,5 +1,13 @@
 # @hyperlane-xyz/sdk
 
+## 5.6.3
+
+### Patch Changes
+
+- Updated dependencies [04108155d]
+  - @hyperlane-xyz/utils@5.6.3
+  - @hyperlane-xyz/core@5.6.2
+
 ## 5.6.2
 
 ### Patch Changes
